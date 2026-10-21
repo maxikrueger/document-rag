@@ -1,13 +1,13 @@
-# QMS-RAG
+# Document-RAG
 
 ![Python](https://img.shields.io/badge/Python-3.11+-blue)
 ![Tests](https://img.shields.io/badge/tests-144-brightgreen)
 ![Index](https://img.shields.io/badge/index-local-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-**A retrieval-augmented search assistant for quality management documents: ask a question in
-plain German and get an answer with citations — parsing, embeddings and index stay on your
-own machine.**
+**A retrieval-augmented search assistant for documents, e.g. quality management documents. 
+Ask a question in plain German and get an answer with citations.
+Parsing, embeddings and index stay on your own machine.**
 
 Quality management systems keep their documents as PDF, Word, Excel and PowerPoint files on a
 network share, where finding anything means knowing the file name. QMS-RAG parses those
