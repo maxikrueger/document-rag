@@ -5,7 +5,7 @@
 ![Index](https://img.shields.io/badge/index-local-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-**A retrieval-augmented search assistant for documents, e.g. quality management documents. 
+**A retrieval-augmented search assistant for document collections such as quality management systems.
 Ask a question in plain German and get an answer with citations.
 Parsing, embeddings and index stay on your own machine.**
 
